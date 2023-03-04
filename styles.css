@@ -1,0 +1,29 @@
+*{
+
+}
+.image{
+    margin-top: -10px;
+}
+.container{
+    margin-top: 20px;
+}
+.weather-img
+{
+    width: 40%;
+    float: left;
+    margin-right: 5%;
+}
+.ans
+{
+    width: 95%;
+    margin: 50px auto 10px auto;
+    text-align: left;
+    line-height: 2;
+}
+.doppler-img
+{
+    width: 62%;
+    height: 350px;
+    float: right;
+    margin-left: 5%;
+}
